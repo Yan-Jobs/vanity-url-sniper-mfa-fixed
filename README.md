@@ -8,4 +8,4 @@ discord mfa fixed vanity sniper written with python. no exe no obf no enc.  THIS
 - Discord: w58l
 - My server: [Server](https://discord.gg/bnqd6zezr2)
 
-https://hits.sh/github.com/Yan-Jobs/vanity-url-sniper-mfa-fixed.svg
+[h](https://hits.sh/github.com/Yan-Jobs/vanity-url-sniper-mfa-fixed.svg)
