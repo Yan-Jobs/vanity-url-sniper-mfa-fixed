@@ -6,4 +6,4 @@ discord mfa fixed vanity sniper written with python. no exe no obf no enc.  THIS
 
 # IF YOU HAVE ANY QUESTION ADD ME ON DISCORD
 - Discord: w58l
-- My server: (Server)[https://discord.gg/bnqd6zezr2] 
+- My server: [Server](https://discord.gg/bnqd6zezr2)
