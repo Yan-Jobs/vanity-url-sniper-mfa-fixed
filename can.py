@@ -11,7 +11,7 @@ k2 = 'vanity receiver server id'
 k3 = 'ur acc password'
 
 o1 = {
-    'z1': 'tager server vanity',
+    'target server id': 'target server vanity',
 }
 
 def x1() -> int: 
