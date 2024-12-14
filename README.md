@@ -5,7 +5,7 @@ discord mfa fixed vanity sniper written with python. no exe no obf no enc.  THIS
 - Open it with notepad and fill. then run it.
 
 # IF YOU HAVE ANY QUESTION ADD ME ON DISCORD
-- Discord: w58l
+- Discord: oe31
 - My server: [Server](https://discord.gg/bnqd6zezr2)
 
 ![](https://hits.sh/github.com/Yan-Jobs/vanity-url-sniper-mfa-fixed.svg)
